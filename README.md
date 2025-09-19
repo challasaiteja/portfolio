@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm SAI TEJA CHALLA</h1>
 <h3 align="center">An enthusiastic AI Engineer</h3>
 
-- 🔭 I’m currently working on [kai.ai an AI teaching assistant](https://kai.radicalai.app/)
-
-- 🌱 I’m currently learning **LLMs and LangChain**
+- 🔭 I’m currently working at BookedBy.
 
 - 📫 How to reach me **saitejachalla2001@gmail.com**
 
