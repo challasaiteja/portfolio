@@ -20,12 +20,6 @@ I'm a passionate **AI Engineer** with a strong foundation in machine learning, d
 - 💬 **Ask Me About:** Python, Machine Learning, Deep Learning, AI Engineering
 - ⚡ **Fun Fact:** I love solving complex algorithmic problems and exploring new AI research papers
 
----
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saitejachalla&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
 
 ---
 
