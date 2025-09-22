@@ -22,12 +22,6 @@ I'm a passionate **AI Engineer** with a strong foundation in machine learning, d
 
 ---
 
-## 🏆 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saitejachalla&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saitejachalla&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saitejachalla&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
@@ -82,23 +76,11 @@ I'm a passionate **AI Engineer** with a strong foundation in machine learning, d
 
 ---
 
-## 🎯 Featured Projects
-
-<div align="center">
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saitejachalla&repo=project1&theme=tokyonight&hide_border=true" alt="Project 1" />
-  </a>
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saitejachalla&repo=project2&theme=tokyonight&hide_border=true" alt="Project 2" />
-  </a>
-</div>
 
 ### 🔥 Notable Projects
-- 🤖 **AI-Powered Chatbot** - Natural language processing chatbot using transformers
-- 📊 **Predictive Analytics Dashboard** - Real-time data analysis with ML models
+- 🤖 **Face Identification Under Mask** - Image Processing
+- 📊 **Age and Gender Prediction** - Real-time data analysis with ML models
 - 🖼️ **Computer Vision Pipeline** - Object detection and image classification system
-- 📈 **Stock Price Predictor** - LSTM-based financial forecasting model
-
 ---
 
 ## 💼 Experience
@@ -114,7 +96,7 @@ I'm a passionate **AI Engineer** with a strong foundation in machine learning, d
 ## 🌐 Connect with Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/saitejachalla" target="_blank">
+  <a href="https://www.linkedin.com/in/sde-challa-sai-teja/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/saiteja22082001" target="_blank">
@@ -144,8 +126,8 @@ I'm a passionate **AI Engineer** with a strong foundation in machine learning, d
 ## 🏆 Achievements
 
 - 🥇 **Problem Solver** - 500+ problems solved on LeetCode and HackerRank
-- 📜 **Certified** - AWS Cloud Practitioner, Google Cloud Professional
-- 🎓 **Education** - Bachelor's in Computer Science with AI specialization
+- 📜 **Certified** - AWS Ceritified Developer Associate, Google Cloud Professional
+- 🎓 **Education** - Master's in Computer Science
 - 🚀 **Open Source** - Active contributor to ML and AI projects
 
 ---
@@ -157,12 +139,6 @@ I'm a passionate **AI Engineer** with a strong foundation in machine learning, d
     <strong>Email:</strong> 
     <a href="mailto:saitejachalla2001@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
-  <p>
-    <strong>Portfolio:</strong> 
-    <a href="https://your-portfolio-url.com" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white" alt="Portfolio" />
     </a>
   </p>
 </div>
