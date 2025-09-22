@@ -5,8 +5,6 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=saitejachalla&color=00d4ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20Machine%20Learning-00d4ff?style=flat-square" alt="Focus" />
-  <img src="https://img.shields.io/badge/Lives-India-00d4ff?style=flat-square" alt="Lives" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Telugu-00d4ff?style=flat-square" alt="Languages" />
 </div>
 
 ---
